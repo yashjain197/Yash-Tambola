@@ -44,13 +44,8 @@ Before you begin, ensure that you have Python and pip installed on your machine.
 
 ## Running project
 
-Once the setup is complete, you can run the Yash-Tambola project using the following command:
+   Once the setup is complete, you can run the Yash-Tambola project using the following command:
    
-   ```bash
             python manage.py runserver
 
-## Enjoy playing Tambola digitally with Yash-Tambola!
-
-
-      
-               
+   ## Enjoy playing Tambola digitally with Yash-Tambola!
