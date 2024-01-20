@@ -48,4 +48,12 @@ Before you begin, ensure that you have Python and pip installed on your machine.
    
             python manage.py runserver
 
+   or 
+   Try it out on deployed version of it.
+
+      GET: http://3.110.84.198:8000/api/generate-ticket/ #params are page and set_id or room_id
+      ex: http://3.110.84.198:8000/api/generate-ticket/?set_id=ff2ac196-cb9f-4060-a7cd-7563d8970097&page=1
+      
+      POST: http://3.110.84.198:8000/api/generate-ticket/ #form data: no_of_set: 1 or 2 ...
+      
    ## Enjoy playing Tambola digitally with Yash-Tambola!
